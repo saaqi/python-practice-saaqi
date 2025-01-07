@@ -1,0 +1,7 @@
+print("What is Your Name?")
+name = input()
+print("Where Do You live?")
+location = input()
+print("What is your email address?")
+email = input()
+print("Hi, my name is " + name + ", I live in " + location + ", and my email address is " + email + ".")
